@@ -1,0 +1,8 @@
+packages:
+  ./
+
+source-repository-package
+    type: git
+    location: https://github.com/Simspace/haskell-sajson
+    tag: 46f8523b9e59e511fa9d3bb1f0b33c9052fcf61e
+    --sha256: 0y7vzfwspf95fvqr931lhk5x7bvl8f3iwia7lxid4fx6zqn1y0f8
